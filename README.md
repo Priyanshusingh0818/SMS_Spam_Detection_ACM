@@ -1,1 +1,4 @@
-# SMS_Spam_Detection_ACM
+TeamMates :
+         Srijan Sarkar
+         Priyanshu Singh
+         Aditya Pratap Singh
