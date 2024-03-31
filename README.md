@@ -4,10 +4,10 @@
     <img src="https://github.com/Priyanshusingh0818/SMS_Spam_Detection_ACM" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">ReadME</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    SMS Spam Detection
     <br/>
     <br/>
     <a href="https://github.com/Priyanshusingh0818/SMS_Spam_Detection_ACM"><strong>Explore the docs »</strong></a>
@@ -22,20 +22,6 @@
 </p>
 
 ![Downloads](https://img.shields.io/github/downloads/Priyanshusingh0818/SMS_Spam_Detection_ACM/total) ![Contributors](https://img.shields.io/github/contributors/Priyanshusingh0818/SMS_Spam_Detection_ACM?color=dark-green) ![Issues](https://img.shields.io/github/issues/Priyanshusingh0818/SMS_Spam_Detection_ACM) ![License](https://img.shields.io/github/license/Priyanshusingh0818/SMS_Spam_Detection_ACM) 
-
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
